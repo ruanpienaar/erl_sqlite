@@ -1,0 +1,3 @@
+migrate to rebar3
+first finish a READ example. write c that will connect read and close.
+compiling the c code "gcc erl_sqlite.c -lpthread -ldl -lsqlite3"

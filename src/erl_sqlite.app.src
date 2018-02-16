@@ -1,0 +1,12 @@
+{application, erl_sqlite,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { erl_sqlite_app, []}},
+  {env, []}
+ ]}.
